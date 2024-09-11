@@ -45,6 +45,6 @@ The source is available from [GitHub cfrankb/esp32-tm1637plus-cpp](https://githu
 
 The code in this project is licensed under the MIT license - see LICENSE for details.
 
-Inital idea based on the Micropython implementation library, written by Mike Causer Copyright (c) 2016
+Initial idea based on the Micropython implementation library, written by Mike Causer Copyright (c) 2016
 
 This project is also based in part on: https://github.com/petrows/esp-32-tm1637

@@ -4,7 +4,7 @@
 
 This is a demo project for a library to control TM1637 LED 7-segment display using the ESP-32 IDF toolchain [ESP-IDF](https://github.com/espressif/esp-idf).
 
-Please note that this is actually a demo project. The actual library is in the components folder.
+Please note that this is actually a demo project. The library is in the components folder.
 
 ![Image](images/20240911_025121-crop.jpg "icon")
 
@@ -44,7 +44,7 @@ idf.py flash
 
 ## Tested hardware
 
-| Part #    | Size      | Pins   |
+| Part #   | Size      | Pins       |
 | -------- | --------- | ---------- |
 | 5643BS-1 | 0.56"     | 12         |
 | 8041BS-1 | 0.80"     | 12         |
@@ -59,6 +59,7 @@ The source is available from [GitHub cfrankb/esp32-tm1637plus-cpp](https://githu
 
 The code in this project is licensed under the MIT license - see LICENSE for details.
 
-Inital idea based on the Micropython implementation library, written by Mike Causer Copyright (c) 2016
+Initial idea based on the Micropython implementation library, written by Mike Causer Copyright (c) 2016
+https://github.com/mcauser/micropython-tm1637
 
 The project is also based in part on this ESP-32 ESP-IDF library: https://github.com/petrows/esp-32-tm1637
