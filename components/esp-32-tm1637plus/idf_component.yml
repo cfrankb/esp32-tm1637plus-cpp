@@ -1,0 +1,8 @@
+-version: "1.0.0"
+description: ESP IDF implementation of the TM1637 LED 7-Segment display library
+url: https://github.com/cfrankb/esp32-tm1637plus-cpp
+dependencies:
+  ## Required IDF version
+  idf:
+    version: ">=5.0"
+
