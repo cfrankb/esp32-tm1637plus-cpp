@@ -1,4 +1,4 @@
-# Demo Project: ESP-32 tm1637 driven LED library for the ESP-IDF
+# Demo Project: ESP-32 tm1637 driver LED library for the ESP-IDF
 
 ## Introduction
 
